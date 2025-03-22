@@ -1,0 +1,37 @@
+#header-nav{
+    background-color: lime;
+    border-radius: 0;
+    border: 0;
+}
+.navbar-access a:hover, .navbar-access a:focus {
+    text-decoration: none;
+}
+#nav-list {
+    margin-top: 10px;
+}
+#nav-list a {
+    color:darkgreen;
+    text-align: center;
+}
+#nav-list a:hover {
+    background: yellow;
+}
+#nav-list a span {
+    font-size: 3em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid orangered;
+}
+.navbar-header button.navbar-toggle:hover{
+    background-color: green;
+}
+.box{
+    position: relative;
+    height: 1000px;
+    background-color: orangered;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+.info{
+    padding-top: 60px;
+}
